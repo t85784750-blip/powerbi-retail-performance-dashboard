@@ -45,3 +45,5 @@ Dataset: Global Electronics Retailer
 ---
 
 ## Dashboard Preview
+
+![Dashboard](IMG_2590.png)
